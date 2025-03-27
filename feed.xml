@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Deceased Scientists</title>
-    <link href="https://fff/feed.xml" rel="self" />
-    <link href="https://fff" />
+    <link href="https://aymengn.github.io/Deceased-Scientists/feed.xml" rel="self" />
+    <link href="https://aymengn.github.io/Deceased-Scientists" />
     <updated>2025-03-27T19:16:03+01:00</updated>
     <author>
         <name>Aymen</name>
     </author>
-    <id>https://fff</id>
+    <id>https://aymengn.github.io/Deceased-Scientists</id>
 
     <entry>
         <title>Albert Einstein&#x27;s Quest for a Unified Field Theory</title>
         <author>
             <name>Aymen</name>
         </author>
-        <link href="https://fff/albert-einsteins-quest-for-a-unified-field-theory.html"/>
-        <id>https://fff/albert-einsteins-quest-for-a-unified-field-theory.html</id>
+        <link href="https://aymengn.github.io/Deceased-Scientists/albert-einsteins-quest-for-a-unified-field-theory.html"/>
+        <id>https://aymengn.github.io/Deceased-Scientists/albert-einsteins-quest-for-a-unified-field-theory.html</id>
 
         <updated>2025-03-27T19:16:03+01:00</updated>
             <summary>
@@ -62,8 +62,8 @@
         <author>
             <name>Aymen</name>
         </author>
-        <link href="https://fff/the-photoelectric-effect-einsteins-nobel-prize-winning-work.html"/>
-        <id>https://fff/the-photoelectric-effect-einsteins-nobel-prize-winning-work.html</id>
+        <link href="https://aymengn.github.io/Deceased-Scientists/the-photoelectric-effect-einsteins-nobel-prize-winning-work.html"/>
+        <id>https://aymengn.github.io/Deceased-Scientists/the-photoelectric-effect-einsteins-nobel-prize-winning-work.html</id>
 
         <updated>2025-03-27T19:14:40+01:00</updated>
             <summary>
@@ -123,8 +123,8 @@
         <author>
             <name>Aymen</name>
         </author>
-        <link href="https://fff/einsteins-general-theory-of-relativity-reshaping-gravity.html"/>
-        <id>https://fff/einsteins-general-theory-of-relativity-reshaping-gravity.html</id>
+        <link href="https://aymengn.github.io/Deceased-Scientists/einsteins-general-theory-of-relativity-reshaping-gravity.html"/>
+        <id>https://aymengn.github.io/Deceased-Scientists/einsteins-general-theory-of-relativity-reshaping-gravity.html</id>
 
         <updated>2025-03-27T19:13:18+01:00</updated>
             <summary>
@@ -172,8 +172,8 @@
         <author>
             <name>Aymen</name>
         </author>
-        <link href="https://fff/emc2-the-story-behind-einsteins-famous-equation.html"/>
-        <id>https://fff/emc2-the-story-behind-einsteins-famous-equation.html</id>
+        <link href="https://aymengn.github.io/Deceased-Scientists/emc2-the-story-behind-einsteins-famous-equation.html"/>
+        <id>https://aymengn.github.io/Deceased-Scientists/emc2-the-story-behind-einsteins-famous-equation.html</id>
 
         <updated>2025-03-27T19:11:55+01:00</updated>
             <summary>
@@ -220,8 +220,8 @@
         <author>
             <name>Aymen</name>
         </author>
-        <link href="https://fff/albert-einsteins-special-theory-of-relativity-explained.html"/>
-        <id>https://fff/albert-einsteins-special-theory-of-relativity-explained.html</id>
+        <link href="https://aymengn.github.io/Deceased-Scientists/albert-einsteins-special-theory-of-relativity-explained.html"/>
+        <id>https://aymengn.github.io/Deceased-Scientists/albert-einsteins-special-theory-of-relativity-explained.html</id>
 
         <updated>2025-03-27T19:10:32+01:00</updated>
             <summary>
@@ -289,8 +289,8 @@
         <author>
             <name>Aymen</name>
         </author>
-        <link href="https://fff/the-calculus-controversy-newton-vs-leibniz.html"/>
-        <id>https://fff/the-calculus-controversy-newton-vs-leibniz.html</id>
+        <link href="https://aymengn.github.io/Deceased-Scientists/the-calculus-controversy-newton-vs-leibniz.html"/>
+        <id>https://aymengn.github.io/Deceased-Scientists/the-calculus-controversy-newton-vs-leibniz.html</id>
 
         <updated>2025-03-27T19:09:10+01:00</updated>
             <summary>
@@ -328,8 +328,8 @@
         <author>
             <name>Aymen</name>
         </author>
-        <link href="https://fff/isaac-newtons-work-on-optics-and-the-nature-of-light.html"/>
-        <id>https://fff/isaac-newtons-work-on-optics-and-the-nature-of-light.html</id>
+        <link href="https://aymengn.github.io/Deceased-Scientists/isaac-newtons-work-on-optics-and-the-nature-of-light.html"/>
+        <id>https://aymengn.github.io/Deceased-Scientists/isaac-newtons-work-on-optics-and-the-nature-of-light.html</id>
 
         <updated>2025-03-27T19:07:47+01:00</updated>
             <summary>
@@ -367,8 +367,8 @@
         <author>
             <name>Aymen</name>
         </author>
-        <link href="https://fff/newtons-theory-of-universal-gravitation-uniting-heaven-and-earth.html"/>
-        <id>https://fff/newtons-theory-of-universal-gravitation-uniting-heaven-and-earth.html</id>
+        <link href="https://aymengn.github.io/Deceased-Scientists/newtons-theory-of-universal-gravitation-uniting-heaven-and-earth.html"/>
+        <id>https://aymengn.github.io/Deceased-Scientists/newtons-theory-of-universal-gravitation-uniting-heaven-and-earth.html</id>
 
         <updated>2025-03-27T19:06:24+01:00</updated>
             <summary>
@@ -425,8 +425,8 @@
         <author>
             <name>Aymen</name>
         </author>
-        <link href="https://fff/the-laws-of-motion-understanding-newtons-core-principles.html"/>
-        <id>https://fff/the-laws-of-motion-understanding-newtons-core-principles.html</id>
+        <link href="https://aymengn.github.io/Deceased-Scientists/the-laws-of-motion-understanding-newtons-core-principles.html"/>
+        <id>https://aymengn.github.io/Deceased-Scientists/the-laws-of-motion-understanding-newtons-core-principles.html</id>
 
         <updated>2025-03-27T19:05:02+01:00</updated>
             <summary>
@@ -487,8 +487,8 @@
         <author>
             <name>Aymen</name>
         </author>
-        <link href="https://fff/isaac-newtons-principia-mathematica-a-foundation-for-modern-science.html"/>
-        <id>https://fff/isaac-newtons-principia-mathematica-a-foundation-for-modern-science.html</id>
+        <link href="https://aymengn.github.io/Deceased-Scientists/isaac-newtons-principia-mathematica-a-foundation-for-modern-science.html"/>
+        <id>https://aymengn.github.io/Deceased-Scientists/isaac-newtons-principia-mathematica-a-foundation-for-modern-science.html</id>
 
         <updated>2025-03-27T19:03:39+01:00</updated>
             <summary>

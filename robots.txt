@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://fff/sitemap.xml
+Sitemap: https://aymengn.github.io/Deceased-Scientists/sitemap.xml
